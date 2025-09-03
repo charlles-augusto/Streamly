@@ -37,7 +37,7 @@ Atualmente, o sistema conta com os seguintes filmes:
 
 Para executar o sistema, basta rodar o arquivo `locadora.py` com o Python:
 
-```
+```python
 python locadora.py
 ```
 
